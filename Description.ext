@@ -1,0 +1,30 @@
+OnLoadMission = "[ARCSEC] : ARCSECURITY.ORG<br/><br/>Be sure to check the Briefing tab of the map before starting the mission.";
+respawn = BASE;
+respawndelay = 30;
+disabledAI = false;
+enableDebugConsole = 2;
+author = "Siegen";
+
+#include "VAS\menu.hpp"
+
+class CfgFunctions
+{
+	#include "VAS\cfgfunctions.hpp"
+};
+
+class Header
+{
+	gameType = Coop;
+};
+
+class Params
+{
+	class Allow3rdPerson
+	{
+		title = "Allow 3rd Person View";
+		values[] = {0,1,2,3};
+		texts[] = {"Always Allowed","Only for Vehicles","Only for Infantry","Always Disabled"};
+		default = 0;
+		file = "ForceFPV.sqf";
+	};
+};
