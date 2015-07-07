@@ -1,12 +1,17 @@
 Steam Page: http://steamcommunity.com/sharedfiles/filedetails/?id=339761422
 
-Operation: Talon Three 
+Operation: Talon Three
+ 
 Created by Siegen
 
 Play Time: 30 - 60 Minutes 
+
 Player Count: 1 - 14 
+
 Mission Type: COOP 
+
 Mods: None 
+
 Scripts: VAS 
 
 This mission involves your team trying to destroy three OPFOR AA emplacements to enable the BLUFOR advance down the island. You'll need to find each emplacement and destroy it however you can. It involves plenty of infantry-vs-infantry combat and some big explosions. 
